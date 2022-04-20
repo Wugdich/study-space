@@ -74,7 +74,7 @@ def test_logging():
 
 
 def main():
-    test_logging()
+    pass
         
 
 if __name__ == '__main__':
